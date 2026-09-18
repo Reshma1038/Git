@@ -1,3 +1,3 @@
-name="Reshmaaaaaaaaaaa"
-Number=12345567890
-phone_number = 0987654321
+name="afrin fatima"
+newName="new user"
+newName2="new user2"
